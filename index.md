@@ -1,5 +1,6 @@
 # Juan Escalona
 
+<img src="../main/images/JEDS.png" width="200"/>
 ![](../main/images/JEDS.png)
 
 # Hi everyone! 
