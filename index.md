@@ -1,6 +1,6 @@
 # Juan Escalona
 
-![](//main/images/JEDS.png)
+![](/main/images/JEDS.png)
 
 # Hi everyone! 
 
