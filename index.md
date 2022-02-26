@@ -1,6 +1,6 @@
 # Juan Escalona
 
-![](https://github.com/Juanes8/Juanes8/blob/main/images/JEDS.png)
+![](//main/images/JEDS.png)
 
 # Hi everyone! 
 
