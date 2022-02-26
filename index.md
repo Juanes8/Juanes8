@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+![](images/JEDS.png)
 
-You can use the [editor on GitHub](https://github.com/Juanes8/Juanes8/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Hi everyone! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my Github, where you can find a little bit from my work. 
 
-### Markdown
+## About me 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a Mechanical and Electrical Engineer ⚙ from [Tec de Monterrey](https://en.wikipedia.org/wiki/Monterrey_Institute_of_Technology_and_Higher_Education) and currently pursuing a Master's degree in Data Science 🧑🏽‍💻 at [ITAM](https://en.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_Aut%C3%B3nomo_de_M%C3%A9xico).  
 
-```markdown
-Syntax highlighted code block
+Before I started my path as a Data Scientist, I worked in the USA as a Field Service Engineer at [SEAM GROUP](https://www.seamgroup.com/), 
+performing infrared thermal inspections on live electrical connections, I learned to focus on the tiny details to prevent failures. 
+I also worked for two years as a Service Sales Engineer at [Grundfos](https://www.grundfos.com/es), selling predictive maintenance contracts 
+and other service solutions in the Central and SouthEast area of Mexico. During this experience, I learned to identify and solve customers' needs by having
+effective communication, increasing 30% of active contracts in 2020.
 
-# Header 1
-## Header 2
-### Header 3
+- 🌱 I am currently learning about Deep Learning and Bayesian Statistics. 
+- 📫 How to reach me: jh.escalona.s@gmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Juanes8/Juanes8/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
