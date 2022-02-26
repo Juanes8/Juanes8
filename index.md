@@ -1,7 +1,7 @@
 # Juan Escalona
 
-<img src="../main/images/JEDS.png" width="200"/>
-![](../main/images/JEDS.png)
+<img src="../main/images/JEDS.png" width="500"/>
+
 
 # Hi everyone! 
 
