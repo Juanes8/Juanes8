@@ -6,7 +6,7 @@ Welcome to my Github, where you can find a little bit from my work.
 
 ## About me 🧑🏽‍💻
 
-I am a Mechanical and Electrical Enginneer ⚙ from Tec de Monterrey and currently pursuing a Master's degree on Data Science at ITAM.  
+I am a Mechanical and Electrical Enginneer ⚙ from [Tec de Monterrey](https://en.wikipedia.org/wiki/Monterrey_Institute_of_Technology_and_Higher_Education) and currently pursuing a Master's degree on Data Science at [ITAM](https://en.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_Aut%C3%B3nomo_de_M%C3%A9xico).  
 
 <!--
 **Juanes8/Juanes8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
