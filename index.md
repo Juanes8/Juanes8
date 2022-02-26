@@ -1,6 +1,7 @@
-![](images/JEDS.png)
+# Juan Escalona
+![](https://github.com/Juanes8/Juanes8/blob/main/images/JEDS.png)
 
-### Hi everyone! 
+# Hi everyone! 
 
 Welcome to my Github, where you can find a little bit from my work. 
 
