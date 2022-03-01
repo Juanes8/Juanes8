@@ -1,6 +1,10 @@
-# Proyecto Respuesta Desastres
+# Nayarit Shelter Locator
 
-:wave: :wave: 
+This project was devolped for my *Computacional Statistics* course, and I worked alongside my fellows and friends [Carlos López](https://github.com/kennyldc) and [Fernando Miñaur](https://github.com/Fminaurol). 
+
+## Description 
+
+Mexico is a country that due to is location suffers a lot of natural disaster such as earthquakes and hurricanes
 
 ## Integrantes del equipo
 
