@@ -14,3 +14,11 @@ Each index reflects different information, is constructed a particular way, and 
 
 The methods used for the analysis were the power method and the deflation method. The power method is used to calculate the eigenvalue with maximum modulus with its respective eigenvector; by performing this method it is possible to obtain the first component. However, when performing a PCA analysis we require to obtain the rest of components. The power method with deflation is supported to obtain the rest of the components and determine which of them is capable of capturing the original variation of the data, thus reducing the dimensionality of our problem.
 
+This project was developed in AWS using a Docker container, the configuration used can be found in the [AWS:Docker](https://github.com/Juanes8/Juanes8/tree/main/Project2/AWS:Docker) folder. The folder [Implementación](https://github.com/Juanes8/Juanes8/tree/main/Project2/Implementaci%C3%B3n) has the Python fuctiond that were used, you can find more details about this project in this [repository](https://github.com/Juanes8/proyecto_final_opt21_eq8).
+
+## Libraries
+- Numpy
+- Matplotlib
+- Pandas
+- Math
+
